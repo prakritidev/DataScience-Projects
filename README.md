@@ -1,7 +1,1 @@
-Data Science Projects 
-
-Language: Python 
-
-Distribution: Anadonda
-
-Maintained by PRAKRITIDEV VERMA 
+This repository contains my Machine Learning Projects and Deep Learning projects. This reposotory also includes my Udacity Nanodegree Projects that I've done during the course. All codes are in python language using Anaconda distribution. 
